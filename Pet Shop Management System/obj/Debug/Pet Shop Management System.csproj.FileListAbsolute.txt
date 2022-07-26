@@ -1,0 +1,92 @@
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop.mdf
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop_log.ldf
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashCustomer.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashProduct.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Dashboard.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop.mdf
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop_log.ldf
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.SuggestedBindingRedirects.cache
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashCustomer.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashProduct.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerModule.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Dashboard.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductModule.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.SplashForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserForm.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserModule.resources
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+F:\NUOL Study\Projects\WinForm\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\dbPetShop.mdf
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\dbPetShop_log.ldf
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.SuggestedBindingRedirects.cache
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashCustomer.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashProduct.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerModule.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Dashboard.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductModule.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.SplashForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserForm.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserModule.resources
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+F:\NUOL Study\Year2\Database Programming\PetStore\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
