@@ -26,7 +26,7 @@ namespace Pet_Shop_Management_System
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            if(MessageBox.Show("Exit Application?","Confirm",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+            if(MessageBox.Show("ທ່ານຕ້ອງການປິດລະບົບບໍ?","Confirm",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
             {
                 Application.Exit();
             }
@@ -47,11 +47,11 @@ namespace Pet_Shop_Management_System
                 {
                     _name = dr["name"].ToString();
                     _role = dr["role"].ToString();
-                    MessageBox.Show("Welcome  " + _name + " |", "ACCESS GRANTED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("ຍິນດີຕ້ອນຮັບ  " + _name + " |", "ACCESS GRANTED", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     MainForm main = new MainForm();
                     main.lblUsername.Text = _name;
                     main.lblRole.Text = _role;
-                    if (_role != "Administrator")
+                    if (_role == "Administrator")
                     
                         main.btnUser.Enabled = true;
                     
@@ -60,7 +60,7 @@ namespace Pet_Shop_Management_System
                 }
                 else
                 {
-                    MessageBox.Show("Invalid username and password!", "ACCESS DENIED", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("ຊື່ຜູ້ໃຊ້ ຫຼື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ!", "ACCESS DENIED", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             }
             catch (Exception ex)
@@ -74,7 +74,7 @@ namespace Pet_Shop_Management_System
 
         private void btnForget_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Please contact your BOSS!", "FORGET PASSWORD", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("ກະລຸນາຕິດຕໍ່ຫາແອັດມິນ!", "FORGET PASSWORD", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

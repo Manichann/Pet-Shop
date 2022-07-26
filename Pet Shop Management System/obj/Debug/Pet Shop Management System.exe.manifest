@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pet Shop Management System.exe" size="4139976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pet Shop Management System.exe" size="4142536">
       <assemblyIdentity name="Pet Shop Management System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>C/DRTlyhmqvEghT9an3AmIhl5Jns/451eJA+NSaHlPM=</dsig:DigestValue>
+        <dsig:DigestValue>tjZdcg4TpJ0bsm+zBZxUGN0fgBMIjvn4YDgpUAB4SzA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -72,7 +72,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pk8OE7eGLJhjOGTPzqUv/KPFZrcgk41Wx2H6ZiIFbgg=</dsig:DigestValue>
+      <dsig:DigestValue>zvW9JArbw/v109DKMQCuNgJqTRgHugG9SRDnIth0HmI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbPetShop_log.ldf" size="8388608" writeableType="applicationData">
@@ -81,7 +81,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mC/SHIWEB81hv62S3q+AQR2jakQ4ELcxTeITI0O9+kQ=</dsig:DigestValue>
+      <dsig:DigestValue>Xz4UqIgsG9HmMd79sTHPHIxZOp+D4KFaWpQOIVkpN+0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="icons8_shiba_inu.ico" size="4286">

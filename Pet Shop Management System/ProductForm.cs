@@ -55,10 +55,10 @@ namespace Pet_Shop_Management_System
             }
             else if(colName=="Delete")
             {
-                if(MessageBox.Show("Are you sure you want to delete this items?","Delete Record",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+                if(MessageBox.Show("ທ່ານຕ້ອງການລົບຂໍ້ມູນນີ້ບໍ?","Delete Record",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
                 {
                     dbcon.executeQuery("DELETE FROM tbProduct WHERE pcode LIKE '" + dgvProduct.Rows[e.RowIndex].Cells[1].Value.ToString() + "'");                    
-                    MessageBox.Show("Item record has been successfully removed!", title, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("ຂໍ້ມູນໄດ້ຖືກລົບອອກແລ້ວ!", title, MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             }
             LoadProduct();

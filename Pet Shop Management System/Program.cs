@@ -16,7 +16,7 @@ namespace Pet_Shop_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            Application.Run(new SplashForm());
         }
     }
 }

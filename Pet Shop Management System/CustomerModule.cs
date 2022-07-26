@@ -34,7 +34,7 @@ namespace Pet_Shop_Management_System
                 CheckField();
                 if (check)
                 {
-                    if (MessageBox.Show("Are you sure you want to register this customer?", "Customer Registration", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    if (MessageBox.Show("ທ່ານຕ້ອງການບັນທຶກຂໍ້ມູນບໍ?", "Customer Registration", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                     {
                         cm = new SqlCommand("INSERT INTO tbCustomer(name,address,phone)VALUES(@name,@address,@phone)", cn);
                         cm.Parameters.AddWithValue("@name", txtName.Text);
@@ -44,7 +44,7 @@ namespace Pet_Shop_Management_System
                         cn.Open();
                         cm.ExecuteNonQuery();
                         cn.Close();
-                        MessageBox.Show("Customer has been successfully registered!", title);
+                        MessageBox.Show("ຂໍ້ມູນລູກຄ້າໄດ້ຖືກບັນທຶກແລ້ວ!", title);
                         Clear();
                         customer.LoadCustomer();
                     }
@@ -66,7 +66,7 @@ namespace Pet_Shop_Management_System
                 CheckField();
                 if (check)
                 {
-                    if (MessageBox.Show("Are you sure you want to Edit this record?", "Record Edit", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    if (MessageBox.Show("ທ່ານຕ້ອງການແກ້ໄຂຂໍ້ມູນບໍ?", "Record Edit", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                     {
                         cm = new SqlCommand("UPDATE tbCustomer SET name=@name, address=@address, phone=@phone WHERE id=@id", cn);
                         cm.Parameters.AddWithValue("@id", lblcid.Text);
@@ -77,7 +77,7 @@ namespace Pet_Shop_Management_System
                         cn.Open();
                         cm.ExecuteNonQuery();
                         cn.Close();
-                        MessageBox.Show("Customer data has been successfully updated!", title);
+                        MessageBox.Show("ຂໍ້ມູນລູກຄ້າໄດ້ຖືກແກ້ໄຂແລ້ວ!", title);
                         Clear();
                         customer.LoadCustomer();
                         this.Dispose();
@@ -107,7 +107,7 @@ namespace Pet_Shop_Management_System
         {
             if (txtName.Text == "" | txtAddress.Text == "" | txtPhone.Text=="")
             {
-                MessageBox.Show("Required data field!", "Warning");
+                MessageBox.Show("ກະລຸນາປ້ອນຂໍ້ມູນໃຫ້ຄົບ!", "Warning");
                 return;
             }
      

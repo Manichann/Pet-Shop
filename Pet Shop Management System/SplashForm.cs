@@ -29,7 +29,7 @@ namespace Pet_Shop_Management_System
                 timer1.Stop();
                 LoginForm login = new LoginForm();
                 login.ShowDialog();
-                this.Hide();
+                this.Close();
             }
         }
 

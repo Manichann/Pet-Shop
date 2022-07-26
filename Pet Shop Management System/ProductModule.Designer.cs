@@ -154,7 +154,7 @@ namespace Pet_Shop_Management_System
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(42, 283);
+            this.label6.Location = new System.Drawing.Point(42, 286);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(51, 24);
             this.label6.TabIndex = 29;
@@ -163,7 +163,7 @@ namespace Pet_Shop_Management_System
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(42, 240);
+            this.label5.Location = new System.Drawing.Point(42, 241);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(65, 24);
             this.label5.TabIndex = 27;
@@ -178,7 +178,7 @@ namespace Pet_Shop_Management_System
             // 
             // txtQty
             // 
-            this.txtQty.Location = new System.Drawing.Point(195, 237);
+            this.txtQty.Location = new System.Drawing.Point(195, 238);
             this.txtQty.Name = "txtQty";
             this.txtQty.Size = new System.Drawing.Size(462, 31);
             this.txtQty.TabIndex = 3;
@@ -232,9 +232,9 @@ namespace Pet_Shop_Management_System
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(42, 148);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 24);
+            this.label4.Size = new System.Drawing.Size(89, 24);
             this.label4.TabIndex = 24;
-            this.label4.Text = "ພັນສັດ :";
+            this.label4.Text = "ຊະນິດສິນຄ້າ :";
             // 
             // txtName
             // 
@@ -245,7 +245,7 @@ namespace Pet_Shop_Management_System
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(196, 283);
+            this.txtPrice.Location = new System.Drawing.Point(196, 286);
             this.txtPrice.Name = "txtPrice";
             this.txtPrice.Size = new System.Drawing.Size(462, 31);
             this.txtPrice.TabIndex = 4;

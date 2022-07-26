@@ -27,7 +27,7 @@ namespace Pet_Shop_Management_System
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Exit Application?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (MessageBox.Show("ທ່ານຕ້ອງການປິດລະບົບບໍ?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 Application.Exit();
             }
@@ -64,7 +64,7 @@ namespace Pet_Shop_Management_System
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Logout Application?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (MessageBox.Show("ທ່ານຕ້ອງການອອກຈາກລະບົບບໍ?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                  LoginForm login = new LoginForm();
                  this.Dispose();

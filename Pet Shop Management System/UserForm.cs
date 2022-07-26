@@ -59,10 +59,10 @@ namespace Pet_Shop_Management_System
             }
             else if(colName=="Delete")
             {
-                if(MessageBox.Show("Are you sure you want to delete this record?","Delete Record",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+                if(MessageBox.Show("ທ່ານຕ້ອງການລົບຂໍ້ມູນນີ້ບໍ?","Delete Record",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
                 {
                     dbcon.executeQuery("DELETE FROM tbUser WHERE id LIKE'" + dgvUser.Rows[e.RowIndex].Cells[1].Value.ToString() + "'");                    
-                    MessageBox.Show("User data has been successfully removed", title, MessageBoxButtons.OK, MessageBoxIcon.Question);
+                    MessageBox.Show("ຂໍ້ມູນພະນັກງານໄດ້ຖືກລົບແລ້ວ", title, MessageBoxButtons.OK, MessageBoxIcon.Question);
                 }
             }
 

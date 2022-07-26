@@ -372,7 +372,7 @@ namespace Pet_Shop_Management_System
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Dashboard";
-            this.Text = "Welcome to Pet Shop Management System";
+            this.Text = "ຍິນດີຕ້ອນຮັບ";
             this.Load += new System.EventHandler(this.Dashboard_Load);
             this.guna2GradientPanel1.ResumeLayout(false);
             this.guna2GradientPanel1.PerformLayout();

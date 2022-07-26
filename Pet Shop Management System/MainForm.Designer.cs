@@ -105,13 +105,13 @@ namespace Pet_Shop_Management_System
             // 
             // lblTitle
             // 
-            this.lblTitle.Font = new System.Drawing.Font("Century", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.Font = new System.Drawing.Font("VTMHeadline", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(172)))), ((int)(((byte)(220)))));
-            this.lblTitle.Location = new System.Drawing.Point(292, 13);
+            this.lblTitle.Location = new System.Drawing.Point(317, 6);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(696, 38);
+            this.lblTitle.Size = new System.Drawing.Size(696, 49);
             this.lblTitle.TabIndex = 9;
-            this.lblTitle.Text = "Welcome to Pet Shop Management System";
+            this.lblTitle.Text = "ຍິນດີຕ້ອນຮັບ";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2

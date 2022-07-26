@@ -79,12 +79,13 @@ namespace Pet_Shop_Management_System
             this.btnCancel.BackColor = System.Drawing.Color.Silver;
             this.btnCancel.FlatAppearance.BorderSize = 0;
             this.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCancel.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancel.ForeColor = System.Drawing.Color.White;
-            this.btnCancel.Location = new System.Drawing.Point(536, 259);
+            this.btnCancel.Location = new System.Drawing.Point(512, 261);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(139, 41);
             this.btnCancel.TabIndex = 26;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = "ຍົກເລີກ";
             this.btnCancel.UseVisualStyleBackColor = false;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -95,12 +96,13 @@ namespace Pet_Shop_Management_System
             this.btnUpdate.Enabled = false;
             this.btnUpdate.FlatAppearance.BorderSize = 0;
             this.btnUpdate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUpdate.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUpdate.ForeColor = System.Drawing.Color.White;
-            this.btnUpdate.Location = new System.Drawing.Point(375, 259);
+            this.btnUpdate.Location = new System.Drawing.Point(351, 261);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(139, 41);
             this.btnUpdate.TabIndex = 25;
-            this.btnUpdate.Text = "Update";
+            this.btnUpdate.Text = "ແກ້ໄຂ";
             this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
@@ -110,12 +112,13 @@ namespace Pet_Shop_Management_System
             this.btnSave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(172)))), ((int)(((byte)(220)))));
             this.btnSave.FlatAppearance.BorderSize = 0;
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSave.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSave.ForeColor = System.Drawing.Color.White;
-            this.btnSave.Location = new System.Drawing.Point(214, 259);
+            this.btnSave.Location = new System.Drawing.Point(190, 261);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(139, 41);
             this.btnSave.TabIndex = 23;
-            this.btnSave.Text = "Save";
+            this.btnSave.Text = "ບັນທຶກ";
             this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
@@ -123,62 +126,68 @@ namespace Pet_Shop_Management_System
             // 
             this.lblcid.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblcid.AutoSize = true;
-            this.lblcid.Location = new System.Drawing.Point(13, 255);
+            this.lblcid.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblcid.Location = new System.Drawing.Point(49, 259);
             this.lblcid.Name = "lblcid";
-            this.lblcid.Size = new System.Drawing.Size(32, 20);
+            this.lblcid.Size = new System.Drawing.Size(30, 24);
             this.lblcid.TabIndex = 31;
             this.lblcid.Text = "cid";
             this.lblcid.Visible = false;
             // 
             // txtAddress
             // 
-            this.txtAddress.Location = new System.Drawing.Point(214, 148);
+            this.txtAddress.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAddress.Location = new System.Drawing.Point(190, 148);
             this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(462, 26);
+            this.txtAddress.Size = new System.Drawing.Size(462, 31);
             this.txtAddress.TabIndex = 17;
             // 
             // txtPhone
             // 
-            this.txtPhone.Location = new System.Drawing.Point(214, 198);
+            this.txtPhone.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPhone.Location = new System.Drawing.Point(190, 198);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(462, 26);
+            this.txtPhone.Size = new System.Drawing.Size(462, 31);
             this.txtPhone.TabIndex = 18;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(13, 201);
+            this.label3.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(49, 201);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 20);
+            this.label3.Size = new System.Drawing.Size(52, 24);
             this.label3.TabIndex = 21;
-            this.label3.Text = "Phone :";
+            this.label3.Text = "ເບີໂທ :";
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(214, 98);
+            this.txtName.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtName.Location = new System.Drawing.Point(190, 98);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(462, 26);
+            this.txtName.Size = new System.Drawing.Size(462, 31);
             this.txtName.TabIndex = 15;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(13, 101);
+            this.label2.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(49, 101);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 20);
+            this.label2.Size = new System.Drawing.Size(64, 24);
             this.label2.TabIndex = 19;
-            this.label2.Text = "Name :";
+            this.label2.Text = "ຊື່ລູກຄ້າ :";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("VTMHeadline", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(172)))), ((int)(((byte)(220)))));
-            this.label1.Location = new System.Drawing.Point(12, 37);
+            this.label1.Location = new System.Drawing.Point(28, 37);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(232, 24);
+            this.label1.Size = new System.Drawing.Size(113, 46);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Customer Registration";
+            this.label1.Text = "ຂໍ້ມູນລູກຄ້າ";
             // 
             // guna2Elipse1
             // 
@@ -187,11 +196,12 @@ namespace Pet_Shop_Management_System
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 151);
+            this.label4.Font = new System.Drawing.Font("Phetsarath OT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(49, 151);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(75, 20);
+            this.label4.Size = new System.Drawing.Size(39, 24);
             this.label4.TabIndex = 24;
-            this.label4.Text = "Address :";
+            this.label4.Text = "ທີ່ຢູ່ :";
             // 
             // panel1
             // 
@@ -205,7 +215,8 @@ namespace Pet_Shop_Management_System
             // CustomerModule
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(708, 309);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(708, 313);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnUpdate);

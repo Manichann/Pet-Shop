@@ -41,7 +41,7 @@ namespace Pet_Shop_Management_System
             CashCustomer customer = new CashCustomer(this);
             customer.ShowDialog();
 
-            if(MessageBox.Show("Are you sure you want to cash this product?","Cashing",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+            if(MessageBox.Show("ທ່ານຕ້ອງການຄິດໄລ່ເງິນບໍ?","Cashing",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
             {
                 getTransno();
                 main.loadDailySale();
@@ -61,10 +61,10 @@ namespace Pet_Shop_Management_System
             removeitem:
             if(colName=="Delete")
             {
-                if (MessageBox.Show("Are you sure you want to delete this cash?", "Delete Cash", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                if (MessageBox.Show("ທ່ານຕ້ອງການລົບຂໍ້ມູນນີ້ບໍ?", "Delete Cash", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     dbcon.executeQuery("DELETE FROM tbCash WHERE cashid LIKE '" + dgvCash.Rows[e.RowIndex].Cells[1].Value.ToString() + "'");
-                    MessageBox.Show("Cash record has been successfully removed!", title, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("ຂໍ້ມູນການຂາຍໄດ້ຖືກລົບແລ້ວ!", title, MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }               
             }
             else if (colName == "Increase")
@@ -76,7 +76,7 @@ namespace Pet_Shop_Management_System
                 }
                else
                 {
-                    MessageBox.Show("Remaining quantity on hand is " + i + "!", "Out of Stock ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("ສິນຄ້າໃນຮ້ານມີພຽງແຕ່ " + i + "ອັນ!", "Out of Stock ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
             }

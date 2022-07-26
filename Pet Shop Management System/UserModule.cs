@@ -35,7 +35,7 @@ namespace Pet_Shop_Management_System
                 CheckField();
                 if(check)
                 {
-                     if(MessageBox.Show("Are you sure you want to register this user?","User Registration",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+                     if(MessageBox.Show("ທ່ານຕ້ອງການບັນທຶກຂໍ້ມູນບໍ?","User Registration",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
                     {
                         cm = new SqlCommand("INSERT INTO tbUser(name,address,phone,role,dob,password)VALUES(@name,@address,@phone,@role,@dob,@password)", cn);
                         cm.Parameters.AddWithValue("@name", txtName.Text);
@@ -48,7 +48,7 @@ namespace Pet_Shop_Management_System
                         cn.Open();
                         cm.ExecuteNonQuery();
                         cn.Close();
-                        MessageBox.Show("User has been successfully registered!", title);
+                        MessageBox.Show("ຂໍ້ມູນພະນັກງານໄດ້ຖືກເພີ່ມແລ້ວ!", title);
                         Clear();
                         userForm.LoadUser();
                     }
@@ -71,7 +71,7 @@ namespace Pet_Shop_Management_System
                 CheckField();
                 if (check)
                 {
-                    if (MessageBox.Show("Are you sure you want to update this record?", "Edit Record", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    if (MessageBox.Show("ທ່ານຕ້ອງການແກ້ໄຂຂໍ້ມູນບໍ?", "Edit Record", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                     {
                         cm = new SqlCommand("UPDATE tbUser SET name=@name, address=@address, phone=@phone, role=@role, dob=@dob, password=@password WHERE id=@id", cn);
                         cm.Parameters.AddWithValue("@id", lbluid.Text);
@@ -85,7 +85,7 @@ namespace Pet_Shop_Management_System
                         cn.Open();
                         cm.ExecuteNonQuery();
                         cn.Close();
-                        MessageBox.Show("User's data has been successfully updated!", title);
+                        MessageBox.Show("ຂໍ້ມູນພະນັກງານໄດ້ຖືກແກ້ໄຂແລ້ວ!", title);
                         Clear();
                         userForm.LoadUser();
                         this.Dispose();
@@ -148,13 +148,13 @@ namespace Pet_Shop_Management_System
         {
             if(txtName.Text == ""| txtAddress.Text=="")
             {
-                MessageBox.Show("Required data field!", "Warning");
+                MessageBox.Show("ກະລຸນາປ້ອນຂໍ້ມູນໃຫ້ຄົບຖ້ວນ!", "Warning");
                 return;
             }
             
             if(checkAGe(dtDob.Value) < 18)
             {
-                MessageBox.Show("User is child worker!. Under 18 year", "Warning");
+                MessageBox.Show("ພະນັກງານຕ້ອງມີອາຍຸ 18 ປີຂຶ້ນໄປ!", "Warning");
                 return;
             }
             check = true;

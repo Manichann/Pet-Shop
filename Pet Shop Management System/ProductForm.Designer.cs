@@ -166,9 +166,9 @@ namespace Pet_Shop_Management_System
             // Column2
             // 
             this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.Column2.HeaderText = "Pcode";
+            this.Column2.HeaderText = "ລະຫັດສິນຄ້າ";
             this.Column2.Name = "Column2";
-            this.Column2.Width = 81;
+            this.Column2.Width = 102;
             // 
             // Column3
             // 
@@ -179,9 +179,9 @@ namespace Pet_Shop_Management_System
             // Column4
             // 
             this.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.Column4.HeaderText = "ພັນສັດ";
+            this.Column4.HeaderText = "ຊະນິດສິນຄ້າ";
             this.Column4.Name = "Column4";
-            this.Column4.Width = 72;
+            this.Column4.Width = 102;
             // 
             // Column5
             // 
@@ -230,7 +230,7 @@ namespace Pet_Shop_Management_System
             this.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ProductForm";
-            this.Text = "PRODUCT";
+            this.Text = "ສິນຄ້າ";
             ((System.ComponentModel.ISupportInitialize)(this.dgvProduct)).EndInit();
             this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
